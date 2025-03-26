@@ -21,7 +21,7 @@ Project consists of a simple three choices
 
 
 <h3>The beginning of your adventure starts here!:</h3> <br/>
-![Image](cya1.png)
+<img alt="screenshot" src="images/cya1.png"/>
 <br />
 
 
