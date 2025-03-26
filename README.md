@@ -22,7 +22,7 @@ Project consists of a simple three choices
 
 <h3>The beginning of your adventure starts here!:</h3> <br/>
 <p align="center">
-![ScreenShot](https://github.com/user-attachments/assets/44667101-bc25-4d3a-ad5d-03f6253fea1a)
+![ScreenShot](https://github.com/user-attachments/assets/44667101-bc25-4d3a-ad5d-03f6253fea1a)](https://github.com/riverb-creative/ChooseYourOwnAdventure/blob/main/cya1.png)
 <br />
 </p>
 
