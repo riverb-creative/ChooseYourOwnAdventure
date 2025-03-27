@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    justify-content: center;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    display: none;
+}
