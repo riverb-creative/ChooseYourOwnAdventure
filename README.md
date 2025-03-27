@@ -20,9 +20,12 @@ Project consists of a simple three choices
 <h2>Program at a glance:</h2>
 
 
-<h3>The beginning of your adventure starts here!:</h3> <br/>
-<img alt="screenshot" src="images/cya1.png"/>
+<h3>The beginning of your adventure starts here!</h3> <br/>
+<p>The following image shows the start of the Choose Your Own Adventure. I decided to create an adventure based off Pokémon where the user is a new trainer starting off their adventure with their very first Pokémon! What adventure will await you?</p>
+<img alt="screenshot of front page from CYOA" src="images/cya1.png"/>
 <br />
+
+<p>P.S. to be continued with more options in the forseeable future</p>
 
 
 <!--
