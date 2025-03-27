@@ -1,8 +1,7 @@
 /* - - - - - - - - - - - - - - - -
-    Author: River Breazile
+    Author: River
     Date: 1/06/2025
-    Description: CS 133J  HW 04- 
-                This a 'Choose Your Own Adventure' where a user will choose between three Pokemon. 
+    Description: This a 'Choose Your Own Adventure' where a user will choose between three Pokemon. 
                  What could await them next?
  - - - - - - - - - - - - - - - - */
 
